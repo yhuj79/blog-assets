@@ -1,6 +1,6 @@
 # blog-assets
 
-## Repository
+## Link
 
 #### :ballot_box_with_check: <a target="_blank" rel="noopener noreferrer" href="https://yhuj79.github.io">https://yhuj79.github.io</a>
 
