@@ -1,6 +1,9 @@
 # blog-assets
-Gatsby Blog Assets
 
-[https://github.com/yhuj79/yhuj79.github.io](https://github.com/yhuj79/yhuj79.github.io)
+## Repository
 
-[https://yhuj79.github.io](https://yhuj79.github.io)
+#### :ballot_box_with_check: <a target="_blank" rel="noopener noreferrer" href="https://yhuj79.github.io">https://yhuj79.github.io</a>
+
+#### :ballot_box_with_check: <a target="_blank" rel="noopener noreferrer" href="https://github.com/yhuj79/yhuj79.github.io">https://github.com/yhuj79/yhuj79.github.io</a>
+
+#### :ballot_box_with_check: <a target="_blank" rel="noopener noreferrer" href="https://github.com/yhuj79/blog-comments">https://github.com/yhuj79/blog-comments</a>
